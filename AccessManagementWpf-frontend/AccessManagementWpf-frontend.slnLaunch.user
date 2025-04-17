@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\API_1\\API_1\\API_1.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      }
+    ]
+  }
+]

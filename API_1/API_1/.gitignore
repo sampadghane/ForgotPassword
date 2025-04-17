@@ -1,0 +1,45 @@
+﻿# Ignore Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.cache
+*.csproj.user
+
+# Ignore build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+
+# Ignore dependency caches
+packages/
+
+# Ignore app settings with sensitive info
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Ignore EF Core migrations (optional)
+Migrations/
+
+# Ignore Rider / JetBrains IDE files
+.idea/
+*.iml
+
+# Ignore debugging and test-related files
+TestResults/
+*.vsp
+*.vspx
+*.coverage
+*.tlog
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.sln.cache
+
+# Ignore Docker-related files (if using Docker)
+docker-compose.override.yml

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|c:\\users\\samir.padghane\\desktop\\vs\\accessmanagementwpf-frontend\\accessmanagementwpf-frontend\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|solutionrelative:accessmanagementwpf-frontend\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|c:\\users\\samir.padghane\\desktop\\vs\\accessmanagementwpf-frontend\\accessmanagementwpf-frontend\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|solutionrelative:accessmanagementwpf-frontend\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|c:\\users\\samir.padghane\\desktop\\vs\\accessmanagementwpf-frontend\\accessmanagementwpf-frontend\\resetmethods.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|solutionrelative:accessmanagementwpf-frontend\\resetmethods.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|c:\\users\\samir.padghane\\desktop\\vs\\accessmanagementwpf-frontend\\accessmanagementwpf-frontend\\resetmethods.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|solutionrelative:accessmanagementwpf-frontend\\resetmethods.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|c:\\users\\samir.padghane\\desktop\\vs\\accessmanagementwpf-frontend\\accessmanagementwpf-frontend\\forgotpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|solutionrelative:accessmanagementwpf-frontend\\forgotpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|c:\\users\\samir.padghane\\desktop\\vs\\accessmanagementwpf-frontend\\accessmanagementwpf-frontend\\forgotpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|solutionrelative:accessmanagementwpf-frontend\\forgotpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|c:\\users\\samir.padghane\\desktop\\vs\\accessmanagementwpf-frontend\\accessmanagementwpf-frontend\\otpwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|solutionrelative:accessmanagementwpf-frontend\\otpwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|c:\\users\\samir.padghane\\desktop\\vs\\accessmanagementwpf-frontend\\accessmanagementwpf-frontend\\securityquestionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{661918E4-EFD6-4580-B587-95B56D0E7AE8}|AccessManagementWpf-frontend\\AccessManagementWpf-frontend.csproj|solutionrelative:accessmanagementwpf-frontend\\securityquestionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\Dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccessManagementWpf-frontend\\Dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\Dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccessManagementWpf-frontend\\Dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResetMethods.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\ResetMethods.xaml.cs",
+              "RelativeDocumentMoniker": "AccessManagementWpf-frontend\\ResetMethods.xaml.cs",
+              "ToolTip": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\ResetMethods.xaml.cs",
+              "RelativeToolTip": "AccessManagementWpf-frontend\\ResetMethods.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:13:29.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPass.xaml",
+              "DocumentMoniker": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\ForgotPass.xaml",
+              "RelativeDocumentMoniker": "AccessManagementWpf-frontend\\ForgotPass.xaml",
+              "ToolTip": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\ForgotPass.xaml",
+              "RelativeToolTip": "AccessManagementWpf-frontend\\ForgotPass.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T18:35:04.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecurityQuestionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\SecurityQuestionWindow.xaml",
+              "RelativeDocumentMoniker": "AccessManagementWpf-frontend\\SecurityQuestionWindow.xaml",
+              "ToolTip": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\SecurityQuestionWindow.xaml",
+              "RelativeToolTip": "AccessManagementWpf-frontend\\SecurityQuestionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T18:30:59.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "AccessManagementWpf-frontend\\Dashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\Dashboard.xaml.cs",
+              "RelativeToolTip": "AccessManagementWpf-frontend\\Dashboard.xaml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:20:00.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainwindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\mainwindow.xaml",
+              "RelativeDocumentMoniker": "AccessManagementWpf-frontend\\mainwindow.xaml",
+              "ToolTip": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\mainwindow.xaml",
+              "RelativeToolTip": "AccessManagementWpf-frontend\\mainwindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T11:11:28.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainwindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\mainwindow.xaml.cs",
+              "RelativeDocumentMoniker": "AccessManagementWpf-frontend\\mainwindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\mainwindow.xaml.cs",
+              "RelativeToolTip": "AccessManagementWpf-frontend\\mainwindow.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:42:55.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResetMethods.xaml",
+              "DocumentMoniker": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\ResetMethods.xaml",
+              "RelativeDocumentMoniker": "AccessManagementWpf-frontend\\ResetMethods.xaml",
+              "ToolTip": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\ResetMethods.xaml",
+              "RelativeToolTip": "AccessManagementWpf-frontend\\ResetMethods.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T11:13:18.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPass.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\ForgotPass.xaml.cs",
+              "RelativeDocumentMoniker": "AccessManagementWpf-frontend\\ForgotPass.xaml.cs",
+              "ToolTip": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\ForgotPass.xaml.cs",
+              "RelativeToolTip": "AccessManagementWpf-frontend\\ForgotPass.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T18:37:52.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OtpWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\OtpWindow.xaml",
+              "RelativeDocumentMoniker": "AccessManagementWpf-frontend\\OtpWindow.xaml",
+              "ToolTip": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\OtpWindow.xaml",
+              "RelativeToolTip": "AccessManagementWpf-frontend\\OtpWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T18:31:28.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "AccessManagementWpf-frontend\\Dashboard.xaml",
+              "ToolTip": "C:\\Users\\samir.padghane\\Desktop\\VS\\AccessManagementWpf-frontend\\AccessManagementWpf-frontend\\Dashboard.xaml",
+              "RelativeToolTip": "AccessManagementWpf-frontend\\Dashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T11:14:38.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

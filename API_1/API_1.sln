@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_1", "API_1\API_1.csproj", "{7BB6BB32-1762-4341-A5EA-338F0978E0C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessManagementWpf-frontend", "..\AccessManagementWpf-frontend\AccessManagementWpf-frontend\AccessManagementWpf-frontend.csproj", "{9616B8C6-D890-44CF-9571-63B715BCF1DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB6BB32-1762-4341-A5EA-338F0978E0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB6BB32-1762-4341-A5EA-338F0978E0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB6BB32-1762-4341-A5EA-338F0978E0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB6BB32-1762-4341-A5EA-338F0978E0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9616B8C6-D890-44CF-9571-63B715BCF1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9616B8C6-D890-44CF-9571-63B715BCF1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9616B8C6-D890-44CF-9571-63B715BCF1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9616B8C6-D890-44CF-9571-63B715BCF1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

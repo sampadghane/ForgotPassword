@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessManagementWpf-frontend", "AccessManagementWpf-frontend\AccessManagementWpf-frontend.csproj", "{661918E4-EFD6-4580-B587-95B56D0E7AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_1", "..\API_1\API_1\API_1.csproj", "{BE1138E3-DAA1-44C3-A811-D40F2BD84236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661918E4-EFD6-4580-B587-95B56D0E7AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661918E4-EFD6-4580-B587-95B56D0E7AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661918E4-EFD6-4580-B587-95B56D0E7AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661918E4-EFD6-4580-B587-95B56D0E7AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1138E3-DAA1-44C3-A811-D40F2BD84236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1138E3-DAA1-44C3-A811-D40F2BD84236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1138E3-DAA1-44C3-A811-D40F2BD84236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1138E3-DAA1-44C3-A811-D40F2BD84236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

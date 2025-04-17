@@ -1,0 +1,35 @@
+﻿# Ignore Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.cache
+*.csproj.user
+
+# Ignore build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+
+# Ignore dependency caches
+packages/
+node_modules/
+
+# Ignore Rider / JetBrains IDE files
+.idea/
+*.iml
+
+# Ignore debugging and test-related files
+TestResults/
+*.vsp
+*.vspx
+*.coverage
+*.tlog
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.sln.cache
